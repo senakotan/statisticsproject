@@ -1,24 +1,30 @@
-📊 Statistical Analysis on ENB2012 Dataset
+# 📊 Statistical Analysis on Yacht Hydrodynamics Dataset
 
-This project presents a statistical analysis of the **Heating Load** variable from the ENB2012 dataset using Python. The analysis includes:
+This project presents a statistical analysis of the **Residuary Resistance (Rr)** variable from the Yacht Hydrodynamics dataset. The analysis was conducted using Python and includes key statistical methods and visualizations.
+
+## 🔍 Focus of the Study
 
 - 📈 Descriptive statistics  
-- 📊 Data visualization (histograms, boxplots)  
+- 📊 Histogram and boxplot visualizations  
 - 🎯 Confidence intervals  
+- 🧪 Hypothesis testing  
 - 📏 Sample size estimation  
-- 🧪 Hypothesis testing
+- ⚠️ Outlier detection
 
- 🧰 Tools & Libraries
+## 🧰 Tools & Libraries
 
-- 🐍 Python (Jupyter Notebook)  
-- 📦 pandas, matplotlib, seaborn, scipy, numpy
+- Python (Jupyter Notebook)  
+- pandas, numpy, matplotlib, seaborn, scipy
 
- 📁 Dataset
+## 📁 Dataset
 
-ENB2012 Data Set — [🔗 UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency)
+[Yacht Hydrodynamics Dataset – Kaggle](https://www.kaggle.com/datasets/heitornunes/yacht-hydrodynamics-data-set)  
+Originally from UCI Machine Learning Repository
 
-
-👤 Author
+## 👩‍💻 Author
 
 **Sena Kotan**  
 📧 senakotan34@gmail.com
+
+
+
